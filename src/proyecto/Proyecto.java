@@ -16,6 +16,7 @@ public class Proyecto {
      */
     public static void main(String[] args) {
     JOptionPane.showMessageDialog(null, "Holaa amiga");
+     JOptionPane.showMessageDialog(null,"ohh que bien");   
     }
     
 }
